@@ -1,0 +1,40 @@
+.mian-cont img{
+    width: 450px;
+    height: 100px;
+    margin-left: 450px;
+    margin-top: 40px;
+
+}
+.one h1{
+    margin-left: 500px;
+    display: inline-block;
+
+
+}
+.one button{
+    margin-left: 200PX;
+    width: 150PX;
+    height: 30PX;
+    border: 2PX solid blue;
+    border-radius: 15PX;
+    color: blue;
+}
+.two p{
+    margin-left: 570px;
+    color: gray;
+    margin-top: 0PX;
+    
+}
+.three h4{
+    margin: 3px;
+    color: blue;
+    margin-left: 530px;
+    word-spacing: 10px;
+
+}
+.three h4:hover{
+    border: 2px solid black;
+    width: 300px;
+}
+
+
